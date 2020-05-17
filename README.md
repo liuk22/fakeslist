@@ -1,4 +1,5 @@
 # FakesList
+_Project Created for University of Washington Hackathon "DubHacks" 2019_
 
 ## Summary
 Fakeslist is a website for users looking to avoid scams on Ebay for "buy now" items. Users input a URL of a specific Ebay product listing they are interested in purchasing, and Fakeslist evaluates the product price against similar item prices and checks its description for keyword signs of possible scams, and displays metrics on the likelihood of the listing being a scam. 
